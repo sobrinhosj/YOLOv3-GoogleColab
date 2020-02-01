@@ -1,6 +1,6 @@
 # YOLOv3-GoogleColab
 
-19/19/2019 - Ei, acabei de fazer fork (copy and paste) do projeto fodaralho do Ivan Gorw.
+01/jan/2020 - Ei, acabei de fazer fork (copy and paste) do projeto fodaralho do Ivan Gorw.
 Veja o vídeo sobre a maneira mais rápida e fácil de configurar o YOLOv3 no Google Colab em um clique, confira: https://youtu.be/USdaipqgZR8
 
 Vou usar este conhecimento como base para ensinar no projeto OldHackers, HackerSpace dedicado a pesssoas em situação de rua, na rua ou em albergues, confira:
