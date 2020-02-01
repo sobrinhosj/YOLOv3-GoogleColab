@@ -1,10 +1,11 @@
 # YOLOv3-GoogleColab
 
-7/19/2019 - Hey, I just made a video on the QUICKEST and EASIEST way to set up YOLOv3 on Google Colab in *ONE* click, check it out: https://youtu.be/USdaipqgZR8
+19/19/2019 - Ei, acabei de fazer fork (copy and paste) do projeto fodaralho do Ivan Gorw.
+Veja o vídeo sobre a maneira mais rápida e fácil de configurar o YOLOv3 no Google Colab em um clique, confira: https://youtu.be/USdaipqgZR8
+Vou usar este conhecimento como base para ensinar no projeto OldHackers, HackerSpace dedicado a pesssoas em situação de rua, na rua ou em albergues \o/
+Ei! E ai gente! Aqui está o bloco de anotações do Google Colaboratory que, espero, ajudará você a configurar o YOLOv3 no Google Colab e seguir em frente. Você encontrará aqui como instalar o Darknet com o YOLO e todas as suas dependências, incluindo CUDA e OpenCV. Em seguida, mostrarei como processar vídeos com ele e treinar seus modelos (que funcionaram 1000 vezes mais rápido que minha boa e velha CPU), além de como fazer upload e download de dados de treinamento e pesos resultantes.
 
+Você pode entrar em contato comigo aqui: https://www.instagram.com/zeh_ss/
+Projeto OldHackers: https://grabcad.com/library/oldhackers-2
 
-Hey! What's up, guys! Here's the Google Colaboratory notebook that will, hopefully, help you set up YOLOv3 on Google Colab and get going with it. You'll find here how to install Darknet with YOLO and all its dependencies, including CUDA and OpenCV. Then, I'll be showing how to process videos with it and train your models (which worked like 1000 times faster than my good ol' CPU), as well as how to upload and download your training data and the resulting weights.
-
-You can contact me here: https://twitter.com/Ivangrov 
-
-Hope you enjoy and get some value out of it!
+Espero que você goste e tire algum valor disso!
