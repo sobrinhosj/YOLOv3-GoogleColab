@@ -8,6 +8,6 @@ Projeto OldHackers: https://grabcad.com/library/oldhackers-2
 
 Ei! E ai gente! Aqui está o bloco de anotações do Google Colaboratory que, espero, ajudará você a configurar o YOLOv3 no Google Colab e seguir em frente. Você encontrará aqui como instalar o Darknet com o YOLO e todas as suas dependências, incluindo CUDA e OpenCV. Em seguida, mostrarei como processar vídeos com ele e treinar seus modelos (que funcionaram 1000 vezes mais rápido que minha boa e velha CPU), além de como fazer upload e download de dados de treinamento e pesos resultantes.
 
-Você pode entrar em contato comigo aqui: https://www.instagram.com/zeh_ss/
+Você pode entrar em contato comigo aqui: @digitaldarua
 
 Espero que você goste e tire algum valor disso!
